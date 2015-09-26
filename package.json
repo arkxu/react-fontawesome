@@ -4,7 +4,7 @@
   "description": "A React component for the font-awesome icon library.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danawoodman/react-fontawesome.git"
+    "url": "git+https://github.com/arkxu/react-fontawesome.git"
   },
   "config": {
     "entry": "src",
@@ -12,7 +12,7 @@
     "mainFile": "src/index.js"
   },
   "bugs": {
-    "url": "https://github.com/danawoodman/react-fontawesome/issues"
+    "url": "https://github.com/arkxu/react-fontawesome/issues"
   },
   "main": "lib/index.js",
   "scripts": {
@@ -61,7 +61,7 @@
     "sinon": "^1.16.1",
     "sinon-chai": "^2.8.0"
   },
-  "homepage": "https://github.com/danawoodman/react-fontawesome#readme",
+  "homepage": "https://github.com/arkxu/react-fontawesome#readme",
   "engines": {
     "node": ">=0.10.0"
   },
